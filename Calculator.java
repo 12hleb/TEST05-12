@@ -3,4 +3,5 @@ public class Calculator{
 		int sum = a+b;
 		System.out.println(sum);
 	}
+	// new function added
 }
